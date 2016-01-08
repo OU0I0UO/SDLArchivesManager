@@ -1,1 +1,3 @@
-# SDLArchivesManager
+# sdlArchivesManager
+史丹利经销商在线建档客户端
+2016年01月08日 将原项目代码迁移至新的代码仓库
