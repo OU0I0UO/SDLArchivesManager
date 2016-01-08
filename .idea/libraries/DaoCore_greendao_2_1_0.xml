@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="DaoCore.greendao-2.1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/greenDAO-master/DaoCore/build/libs/greendao-2.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/greenDAO-master/DaoCore/build/libs/greendao-2.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

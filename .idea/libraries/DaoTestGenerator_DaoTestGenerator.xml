@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="DaoTestGenerator.DaoTestGenerator">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/greenDAO-master/DaoTestGenerator/build/libs/DaoTestGenerator.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
