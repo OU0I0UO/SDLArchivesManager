@@ -92,7 +92,7 @@ public class ContractActivity extends AppCompatActivity implements View.OnClickL
                 Bundle bundle = new Bundle();
                 bundle.putLong("id", id);
                 bundle.putString("source", "create");
-                intent.setClass(ContractActivity.this, ConfirmActivity.class);
+                intent.setClass(ContractActivity.this, GroupPhotoActivity.class);
                 intent.putExtras(bundle);
                 startActivity(intent);
                 break;

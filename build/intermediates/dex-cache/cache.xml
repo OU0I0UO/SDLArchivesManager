@@ -1,2 +1,131 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/Users/majingyuan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/majingyuan/GitHub/SDLArchivesManager/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_a1cf35a9766742ee9b43750a3edb5ec5f3ade5c4.jar" />
+    </item>
+    <item
+        jar="/Users/majingyuan/GitHub/SDLArchivesManager/app/libs/volley.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4a94601db9bdfb7dc60efabb3dea91a0675f591d">
+        <dex dex="/Users/majingyuan/GitHub/SDLArchivesManager/app/build/intermediates/pre-dexed/debug/volley_3b8821b31e257bf887ebddb6babb69d52073d76b.jar" />
+    </item>
+    <item
+        jar="/Users/majingyuan/GitHub/SDLArchivesManager/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/majingyuan/GitHub/SDLArchivesManager/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.1.0_c40920358558d6508fd993a650bf2537e6000719.jar" />
+    </item>
+    <item
+        jar="/Users/majingyuan/GitHub/SDLArchivesManager/greenDAO-master/DaoGenerator/build/libs/greendao-generator-2.1.1-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="71d43bf6429b8379021406900b30f95e629b7fc0">
+        <dex dex="/Users/majingyuan/GitHub/SDLArchivesManager/app/build/intermediates/pre-dexed/debug/greendao-generator-2.1.1-SNAPSHOT_494a1953410a5018744adbe49ad6c228b4eec30b.jar" />
+    </item>
+    <item
+        jar="/Users/majingyuan/GitHub/SDLArchivesManager/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/majingyuan/GitHub/SDLArchivesManager/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_49746b0dbb9701d00dfe8fac2f53e778efe433cf.jar" />
+    </item>
+    <item
+        jar="/Users/majingyuan/GitHub/SDLArchivesManager/app/libs/gson-2.5.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="686c608d1805b6d4d425ec4459e88164ffc85870">
+        <dex dex="/Users/majingyuan/GitHub/SDLArchivesManager/app/build/intermediates/pre-dexed/debug/gson-2.5_3ccec2ff64f60fd1bf038979d6d264e2dba82791.jar" />
+    </item>
+    <item
+        jar="/Users/majingyuan/GitHub/SDLArchivesManager/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/majingyuan/GitHub/SDLArchivesManager/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_4bbc5d0327e89ad6bb6238f0da7d0371349e8bf3.jar" />
+    </item>
+    <item
+        jar="/Users/majingyuan/GitHub/SDLArchivesManager/app/build/intermediates/exploded-aar/sdlArchivesManager/trinea-android-common2/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ed4c32712bea66d49ceebf082be569fe58b4dc66">
+        <dex dex="/Users/majingyuan/GitHub/SDLArchivesManager/app/build/intermediates/pre-dexed/debug/sdlArchivesManager-trinea-android-common2-unspecified_2294812a5eec97a6248263d5640ec92b56ff7517.jar" />
+    </item>
+    <item
+        jar="/Users/majingyuan/GitHub/SDLArchivesManager/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/majingyuan/GitHub/SDLArchivesManager/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_0bf57f147b5606013090b49e44d6c02e7ce2c8b9.jar" />
+    </item>
+    <item
+        jar="/Users/majingyuan/GitHub/SDLArchivesManager/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/majingyuan/GitHub/SDLArchivesManager/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.1.1_90aaab6c4579ce056cecd22964fe59003f06e330.jar" />
+    </item>
+    <item
+        jar="/Users/majingyuan/GitHub/SDLArchivesManager/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/Users/majingyuan/GitHub/SDLArchivesManager/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-8.1.0_fb5458ce2cdd74c6deac3e998cde12010a542b4e.jar" />
+    </item>
+    <item
+        jar="/Users/majingyuan/GitHub/SDLArchivesManager/app/libs/nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="/Users/majingyuan/GitHub/SDLArchivesManager/app/build/intermediates/pre-dexed/debug/nineoldandroids-2.4.0_ea3466b21d3e9f7e99f3fb746bc146af9ec36bb4.jar" />
+    </item>
+    <item
+        jar="/Users/majingyuan/GitHub/SDLArchivesManager/app/libs/android-async-http-1.4.5.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="77bf7cacf9cefe19dc105e5425d2eb1bb5285881">
+        <dex dex="/Users/majingyuan/GitHub/SDLArchivesManager/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.5_8c6be674e5b033f92ef55d9db87afc598eed5013.jar" />
+    </item>
+    <item
+        jar="/Users/majingyuan/GitHub/SDLArchivesManager/app/libs/AMap_Location_V2.2.0_20151222.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c50588eaa1b491ba27c1f53d6015bb403babbe4d">
+        <dex dex="/Users/majingyuan/GitHub/SDLArchivesManager/app/build/intermediates/pre-dexed/debug/AMap_Location_V2.2.0_20151222_109f5c465e82cb4b6cfed26ee7e8ff6f4d04d11c.jar" />
+    </item>
+    <item
+        jar="/Users/majingyuan/.gradle/caches/modules-2/files-2.1/org.freemarker/freemarker/2.3.23/cd143cd8c02a9f838e3cb75a6dfe133750437f6d/freemarker-2.3.23.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cd143cd8c02a9f838e3cb75a6dfe133750437f6d">
+        <dex dex="/Users/majingyuan/GitHub/SDLArchivesManager/app/build/intermediates/pre-dexed/debug/freemarker-2.3.23_b0ebb9b925ba1848585da7c5973f575da865814c.jar" />
+    </item>
+    <item
+        jar="/Users/majingyuan/.gradle/caches/modules-2/files-2.1/de.greenrobot/greendao/2.0.0/5f49dd477c1621dfaf0f7fe5d755fe4f07526af2/greendao-2.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5f49dd477c1621dfaf0f7fe5d755fe4f07526af2">
+        <dex dex="/Users/majingyuan/GitHub/SDLArchivesManager/app/build/intermediates/pre-dexed/debug/greendao-2.0.0_d1db2fca17051bb2ecd2daa7809725c87bf65518.jar" />
+    </item>
+    <item
+        jar="/Users/majingyuan/GitHub/SDLArchivesManager/app/build/intermediates/exploded-aar/sdlArchivesManager/ptr-lib/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7c7fb0cc7aaef5e8caaaae0c4649d5e5d8f12476">
+        <dex dex="/Users/majingyuan/GitHub/SDLArchivesManager/app/build/intermediates/pre-dexed/debug/sdlArchivesManager-ptr-lib-unspecified_183cddd91a47933b3a902b4547d2954386d5465f.jar" />
+    </item>
+    <item
+        jar="/Users/majingyuan/GitHub/SDLArchivesManager/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/majingyuan/GitHub/SDLArchivesManager/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.1_3471a43da125e14f8a5f5259a54377748070c3e6.jar" />
+    </item>
+
+</items>
